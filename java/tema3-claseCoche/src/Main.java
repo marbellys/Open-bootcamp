@@ -19,6 +19,7 @@ class coche{
 
     public  void incPuertas(){
         this.nroPuertas++;
+
     }
 
 }
