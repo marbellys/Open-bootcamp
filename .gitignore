@@ -1,4 +1,5 @@
-*.zip
+/java/*.zip
+/java/prueba
 /node_modules
 /public/hot
 /public/storage
