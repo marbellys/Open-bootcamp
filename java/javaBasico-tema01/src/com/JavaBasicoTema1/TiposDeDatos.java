@@ -1,4 +1,4 @@
-package Documentacion;
+package com.JavaBasicoTema1;
 
 public class TiposDeDatos {
     public static void main(String[] args) {
