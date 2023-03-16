@@ -22,6 +22,12 @@ public class CocheMain {
 
         System.out.println(cocheElectricoObj);
 
+        //como implementar el metodo super
+        CocheElectrico cochelectricosup = new CocheElectrico("azul","toyota","corola",40d,20.80,"motor ewan");
+
+
+        System.out.println(cochelectricosup);
+
 
     }
 }
