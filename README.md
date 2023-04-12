@@ -1,2 +1,2 @@
 "# Open-bootcamp" 
-prueba en casa laptop
+prueba en casa laptop por n-sima vez
