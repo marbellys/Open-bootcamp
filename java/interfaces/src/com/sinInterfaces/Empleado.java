@@ -1,12 +1,12 @@
-package com.company;
+package com.sinInterfaces;
 
 public class Empleado{
 
     //propiedades
     String nombre;
     int edad;
-            double salario;
-            boolean activo;
+    double salario;
+    boolean activo;
 
     //constructores
     public Empleado() {

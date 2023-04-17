@@ -1,4 +1,4 @@
-package com.company;
+package com.sinInterfaces;
 
 import java.util.List;
 
