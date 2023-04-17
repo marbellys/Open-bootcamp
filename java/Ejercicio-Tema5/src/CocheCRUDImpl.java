@@ -3,23 +3,18 @@ public  class CocheCRUDImpl implements CocheCRUD {
     String guardar= "Guardar Coches";
     String buscarT="Buscar Todos los Coches";
     String eliminar = "Eliminar Coche";
-
-
     @Override
     public void save() {
-        System.out.println("guardar");
+        System.out.println(guardar);
     }
-
     @Override
     public void findAll() {
-        System.out.println("buscar");
-
+        System.out.println(buscarT);
     }
 
     @Override
     public void delete() {
-        System.out.println("eliminar");
-
+        System.out.println(eliminar);
     }
 
     @Override
